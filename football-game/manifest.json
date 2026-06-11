@@ -1,12 +1,12 @@
 {
-  "name": "Football 3D",
-  "short_name": "Football",
-  "description": "3D Football Browser Game — 3 dakikalık maç, gerçek zamanlı AI",
-  "start_url": "./index.html",
+  "name": "Ultimate Football 26",
+  "short_name": "UF 26",
+  "description": "2D futbol oyunu; hızlı maç, turnuva modu ve maç içi ses efektleri.",
+  "start_url": "./ultimate-football-26.html",
   "display": "fullscreen",
   "orientation": "landscape",
-  "background_color": "#0a1628",
-  "theme_color": "#4CAF50",
+  "background_color": "#020617",
+  "theme_color": "#064e3b",
   "categories": [
     "games",
     "sports"

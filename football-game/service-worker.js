@@ -1,8 +1,11 @@
-const CACHE_NAME = 'football3d-v1';
+const CACHE_NAME = 'ultimate-football-26-v2';
 
 const ASSETS = [
   './',
   './index.html',
+  './ultimate-football-26.html',
+  './assets/icon-192.svg',
+  './assets/icon-512.svg',
   './css/style.css',
   './js/main.js',
   './js/Game.js',
